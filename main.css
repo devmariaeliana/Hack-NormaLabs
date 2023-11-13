@@ -1,0 +1,57 @@
+
+#d-flex{
+   background-color: rgb(228, 118, 8);
+
+}
+
+#btn-warning{
+        background-color: rgb(228, 118, 8) !important; 
+        color: white;
+
+}
+
+#essencia{
+      color: rgb(225, 78, 15) !important;
+      font-size: 45px;
+
+}
+
+.newsletter {
+        padding: 80px 0;
+        background:  rgb(225, 78, 15) !important;
+        }
+        
+        .newsletter .content {
+        max-width: 650px;
+        margin: 0 auto;
+        text-align: center;
+        position: relative;
+        z-index: 2; }
+        .newsletter .content h2 {
+        color:rgb(242, 236, 233) !important;
+        margin-bottom: 40px; }
+        .newsletter .content .form-control {
+        height: 50px;
+        border-color: #ffffff;
+        border-radius:0;
+        }
+        .newsletter .content.form-control:focus {
+        box-shadow: none;
+        border: 2px solid  rgb(225, 78, 15) !important;
+        }
+        .newsletter .content .btn {
+        min-height: 50px; 
+        border-radius:0;
+        background: rgb(16, 16, 16) !important;
+        color: #fff;
+        font-weight:600;
+        }
+
+#col{
+        color:rgb(225, 78, 15) !important;
+        font-size: 35px;
+}
+#list{
+        background:  rgb(225, 78, 15) !important;
+        color:rgb(247, 240, 237) !important;  
+}
